@@ -1,0 +1,34 @@
+_repo: Bantu-Folk-Lore-Medical-and-General_67597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hewat, Matthew L.
+    gutenberg_agent_id: '54352'
+    url: http://www.gutenberg.org/2009/agents/54352
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67597'
+  lccn: tmp96032994
+language: en
+pgterms:marc904: https://archive.org/details/b28992441/page/n5
+pgterms:marc905: 20181022130242hewat
+pgterms:marc906: '1906'
+pgterms:marc907: ZA
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: South Africa :T. Maskew Miller,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Pondo (African people)'
+- !lcsh 'Xhosa (African people)'
+- !lcsh 'Traditional medicine -- South Africa'
+- !lcc 'GR'
+- !lcsh 'Zulu (African people)'
+- GITenberg
+title: Bantu Folk Lore (Medical and General)
+url: http://www.gutenberg.org/ebooks/67597
