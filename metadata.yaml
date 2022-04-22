@@ -1,11 +1,16 @@
 _repo: Bantu-Folk-Lore-Medical-and-General_67597
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67597-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Hewat, Matthew L.
     gutenberg_agent_id: '54352'
     url: http://www.gutenberg.org/2009/agents/54352
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67597#Bantu-Folk-Lore-Medical-and-General
 gutenberg_issued: '2022-03-09'
 identifiers:
   gutenberg: '67597'
